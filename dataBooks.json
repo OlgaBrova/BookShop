@@ -7,6 +7,7 @@
         "genre": "horror",
         "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353277730l/11588.jpg",
         "price": 9,
+        "description": "The Shining centers on the life of Jack Torrance, a struggling writer and recovering alcoholic who accepts a position as the off-season caretaker of the historic Overlook Hotel in the Colorado Rockies.",
         "inStock": 6
     },
     {
@@ -17,36 +18,40 @@
         "genre": "horror fiction",
         "image": "https://assets.whsmith.co.uk/product-image/extra-large/9781529378313-10-000_1.jpg",
         "price": 12,
+        "description": "Based on the seminal horror novel by Stephen King, Pet Sematary follows Dr. Louis Creed (Jason Clarke), who, after relocating with his wife Rachel (Amy Seimetz) and their two young children from Boston to rural Maine, discovers a mysterious burial ground hidden deep in the woods near the family's new home.",
         "inStock": 4
     },
     {
         "id": 3,
-        "name": "Philosopher's Stone",
+        "name": "Harry Potter and the Philosopher's Stone",
         "published":"(1997)",
         "authorName": "J.K.Rowling",
         "genre": "fantasy",
         "image": "https://images-na.ssl-images-amazon.com/images/I/51ifu1aebKL._SX332_BO1,204,203,200_.jpg",
         "price": 11,
+        "description": "Featuring vivid descriptions and an imaginative story line, it followed the adventures of the unlikely hero Harry Potter, a lonely orphan who discovers that he is actually a wizard and enrolls in the Hogwarts School of Witchcraft and Wizardry. The book received numerous awards, including the British Book Award.",
         "inStock": 3
     },
     {
         "id": 4,
-        "name": "Prisoner of Azkaban",
+        "name": "Harry Potter and the Prisoner of Azkaban",
         "published":"(1999)",
         "authorName": "J.K.Rowling",
         "genre": "fantasy",
         "image": "https://m.media-amazon.com/images/I/51Dfqo6jR5L._SY346_.jpg",
         "price": 16,
+        "description": "The book follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry. Along with friends Ronald Weasley and Hermione Granger, Harry investigates Sirius Black, an escaped prisoner from Azkaban, the wizard prison, believed to be one of Lord Voldemort's old allies.",
         "inStock": 7
     },
     {
         "id": 5,
-        "name": "Order of the Phoenix",
+        "name": "Harry Potter and the Order of the Phoenix",
         "published":"(2003)",
         "authorName": "J.K.Rowling",
         "genre": "fantasy",
         "image": "https://upload.wikimedia.org/wikipedia/en/7/70/Harry_Potter_and_the_Order_of_the_Phoenix.jpg",
         "price": 18,
+        "description": "It follows Harry Potter's struggles through his fifth year at Hogwarts School of Witchcraft and Wizardry, including the surreptitious return of the antagonist Lord Voldemort, O.W.L. exams, and an obstructive Ministry of Magic.",
         "inStock": 2
     }
     
